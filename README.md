@@ -1,6 +1,6 @@
 # JupyterLab + Binder
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JsonFort/AtFileGenerator.git/development?filepath=AtFileGenerator.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JsonFort/AtFileGenerator.git/development?urlpath=lab)
 
 JupyterLab is packaged with Binder repositories by default. In order to
 run a JupyterLab session, you have two options:
